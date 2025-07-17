@@ -9,6 +9,6 @@ there is junk files.
 
 Type yes (y) if you want to continue the cleaning.
 
-Provide your admin password.
+Provide your super user password.
 
 The files are now cleaned. 
